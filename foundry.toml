@@ -1,0 +1,6 @@
+[profile.default]
+src = "test"
+out = "out"
+libs = ["lib"]
+solc = "0.8.20"
+evm_version = "cancun"
